@@ -27,3 +27,8 @@
 @media(max-width:860px){.reviews-layout{grid-template-columns:1fr;gap:35px}.reviews{padding:75px 0}.reviews-widget{box-shadow:12px 12px 0 rgba(159,39,31,.28)}}
 @media(max-width:530px){.reviews-intro h2{font-size:56px}.reviews-widget{padding:25px 20px}.review-quote{font-size:25px}.review-slide-shell{min-height:270px}}
 @media(prefers-reduced-motion:reduce){.review-slide-shell{transition:none}}
+
+.reviews .reviews-invite{margin-top:28px;max-width:440px;font-size:14px;line-height:1.6;color:#f7eee9}
+.reviews .reviews-invite a{color:#f7eee9;display:inline-flex;flex-wrap:wrap;gap:5px 7px;align-items:center;border-bottom:1px solid #c64136;padding-bottom:8px;transition:color .2s,border-color .2s}
+.reviews .reviews-invite a:hover,.reviews .reviews-invite a:focus-visible{color:#f0a59d;border-color:#f0a59d}
+.reviews .reviews-invite strong{color:#f0a59d}
