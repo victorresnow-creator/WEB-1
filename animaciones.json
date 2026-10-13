@@ -1,0 +1,19 @@
+{
+  "revelado": {
+    "duracionMs": 620,
+    "distanciaPx": 24,
+    "staggerMs": 65,
+    "umbral": 0.09
+  },
+  "producto": {
+    "pulsoMs": 1800,
+    "repeticiones": 3
+  },
+  "hover": {
+    "elevacionPx": 3
+  },
+  "cargaImagenes": {
+    "prioridad": "eager",
+    "precargaGalerias": true
+  }
+}

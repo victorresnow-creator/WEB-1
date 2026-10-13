@@ -1,23 +1,29 @@
-BLACK CLOTHES EC — LANDING
+BLACK CLOTHES EC — GUÍA DE CONFIGURACIÓN
+==========================================
+Repositorio: victorresnow-creator/WEB-1
+Landing: index.html
+WhatsApp: +593 98 876 2059 (wa.me/593988762059)
+Instagram: https://www.instagram.com/black_clothes_ec/
+Facebook: https://www.facebook.com/719687647905308
+TikTok: https://www.tiktok.com/@jonthanbravo
 
-VISTA PREVIA
-Abre index.html en tu computadora. Conéctate a internet si quieres ver la tipografía externa; el catálogo funciona también sin ella.
+NOVEDADES
+- Animaciones al desplazarse y pulso del WhatsApp en el detalle de producto.
+- Carga prioritaria de fotografías; 20 imágenes WebP enlazadas desde la raíz del repositorio.
+- 5% de descuento por pago anticipado en prendas (no incluye envío).
+- Pago contra entrega, sujeto a cobertura; consulta por WhatsApp.
+- Carrito de consultas con tallas y unidades y opción de pago.
+- Sección de envíos y cierre de ventas.
 
-PERSONALIZACIÓN EN config.js
-- WhatsApp: pon el número real con código 593, sin + ni espacios. Ejemplo ilustrativo: 593999999999.
-- Precios: cambia null por el precio en USD para cada producto, por ejemplo: "pan-negro": 35.00,
-- Courier: verifica que la empresa siga siendo Servientrega antes de publicar.
-- Promociones: la landing propone packs de 1, 2 y 3 prendas, pero no anuncia descuentos o precios de combos no confirmados.
+PRECIOS
+Edita los importes null dentro de config.js. Sin precios confirmados, la landing muestra «Consultar precio» y envía consulta por WhatsApp.
 
-FUNCIONALIDADES
-- Diseño responsivo con fotos reales de tu último ZIP.
-- Catálogo con 8 productos y 20 fotos; filtros, galería de producto y selección de tallas.
-- Selección de múltiples prendas con cantidades y resumen; carrito guardado en el navegador.
-- Envía por WhatsApp lista y tallas al configurarlo. Mientras esté vacío, permite copiar el pedido y abrir Instagram.
-- Presentación, ganchos, combos, envíos, preguntas frecuentes y cierre de venta.
+FOTOS
+Los archivos .webp están en la raíz del repositorio. NO moverlos a assets sin cambiar rutas de index.html y productos-data.js.
+
+PROMOCIONES Y ENVÍO
+Verifica cobertura efectiva para contra entrega y las condiciones de la promoción del 5%.
+Las tarifas del envío se confirman con el cliente.
 
 PUBLICACIÓN
-La web aún no está publicada ni está integrada con Shopify. Para publicarla sube TODOS los archivos (index.html, config.js, productos-data.js y carpeta assets) a tu servidor, o adapta la estructura a Shopify.
-
-ANTES DE LANZAR
-Confirma número WhatsApp, precios, promociones, métodos de pago, políticas de cambio, cobertura y tarifas de envío.
+Los archivos están listos en la rama main. La publicación por GitHub Pages depende de la configuración Pages del repositorio (Settings → Pages → Deploy from a branch → main → /(root)). 

@@ -1,13 +1,15 @@
-// BLACK CLOTHES EC — CONFIGURACIÓN DEL NEGOCIO
-// Escribe tu WhatsApp con código de Ecuador, SIN + ni espacios. Ejemplo: "593999999999".
-// Deja whatsapp vacío para usar Instagram DM como alternativa.
+// BLACK CLOTHES EC — CONFIGURACIÓN DE LA TIENDA
+// WhatsApp confirmado por el propietario, en formato internacional sin +.
 window.BLACK_STORE_CONFIG = {
-  whatsapp: "",
+  whatsapp: "593988762059",
   instagram: "black_clothes_ec",
+  facebook: "https://www.facebook.com/719687647905308",
+  tiktok: "https://www.tiktok.com/@jonthanbravo",
+  descuentoAnticipado: 5,
+  pagoContraEntrega: true,
   empresaEnvios: "Servientrega",
   ciudad: "Guayaquil",
-  // Completa precios en USD para mostrar precios y total en el resumen.
-  // Si no has decidido un precio, deja null (se mostrará «Consultar precio»).
+  // Los precios aún no se han proporcionado. No inventar precios.
   precios: {
     "cam-beige": null,
     "cam-cafe": null,
@@ -18,7 +20,6 @@ window.BLACK_STORE_CONFIG = {
     "pan-beige": null,
     "pan-negro": null
   },
-  // Solo activa esta promoción si de verdad existe y puedes cumplirla.
-  textoPromocion: "Pregunta por las promociones disponibles al armar tu outfit.",
+  textoPromocion: "Pago anticipado: 5% de descuento sobre las prendas. Pago contra entrega disponible sujeto a cobertura.",
   costoEnvio: "Se confirma según destino al realizar el pedido."
 };
