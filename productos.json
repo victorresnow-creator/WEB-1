@@ -1,0 +1,158 @@
+[
+  {
+    "id": "cam-beige",
+    "category": "Camisetas",
+    "name": "Camiseta Beige",
+    "color": "Beige",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tag": "Básico esencial",
+    "desc": "El básico que combina con todo. Un tono neutro para elevar tus outfits de todos los días.",
+    "images": [
+      "assets/cam-beige-1.webp",
+      "assets/cam-beige-2.webp"
+    ]
+  },
+  {
+    "id": "cam-cafe",
+    "category": "Camisetas",
+    "name": "Camiseta Café",
+    "color": "Café",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tag": "Tono tendencia",
+    "desc": "Un color con personalidad que combina con looks relajados y tonos tierra.",
+    "images": [
+      "assets/cam-cafe-1.webp",
+      "assets/cam-cafe-2.webp"
+    ]
+  },
+  {
+    "id": "cam-negra-claro",
+    "category": "Camisetas",
+    "name": "Camiseta Negra · Logo Claro",
+    "color": "Negro",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tag": "Todo terreno",
+    "desc": "Un básico negro con un detalle sutil para vestir con actitud sin exagerar.",
+    "images": [
+      "assets/cam-negra-claro-1.webp",
+      "assets/cam-negra-claro-2.webp"
+    ]
+  },
+  {
+    "id": "cam-negra-rojo",
+    "category": "Camisetas",
+    "name": "Camiseta Negra · Logo Rojo",
+    "color": "Negro",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tag": "Detalle protagonista",
+    "desc": "El clásico negro con un acento rojo que marca la diferencia.",
+    "images": [
+      "assets/cam-negra-rojo-1.webp",
+      "assets/cam-negra-rojo-2.webp"
+    ]
+  },
+  {
+    "id": "pan-azul",
+    "category": "Pantalones",
+    "name": "Pantalón Pana Azul",
+    "color": "Azul",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "tag": "Fit relajado",
+    "desc": "Textura de pana y silueta amplia para un outfit urbano diferente.",
+    "images": [
+      "assets/pan-azul-1.webp",
+      "assets/pan-azul-2.webp",
+      "assets/pan-azul-3.webp"
+    ]
+  },
+  {
+    "id": "pan-habano",
+    "category": "Pantalones",
+    "name": "Pantalón Pana Habano",
+    "color": "Habano",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "tag": "Fácil de combinar",
+    "desc": "Un tono tierra versátil con caída amplia y personalidad.",
+    "images": [
+      "assets/pan-habano-1.webp",
+      "assets/pan-habano-2.webp",
+      "assets/pan-habano-3.webp"
+    ]
+  },
+  {
+    "id": "pan-beige",
+    "category": "Pantalones",
+    "name": "Pantalón Pana Beige",
+    "color": "Beige",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "tag": "Elegancia urbana",
+    "desc": "Un tono claro y un corte relajado que combinan con todos tus básicos.",
+    "images": [
+      "assets/pan-beige-1.webp",
+      "assets/pan-beige-2.webp",
+      "assets/pan-beige-3.webp"
+    ]
+  },
+  {
+    "id": "pan-negro",
+    "category": "Pantalones",
+    "name": "Pantalón Pana Negro",
+    "color": "Negro",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38",
+      "40"
+    ],
+    "tag": "Look imprescindible",
+    "desc": "La base para un outfit con actitud: negro, versátil y de caída amplia.",
+    "images": [
+      "assets/pan-negro-1.webp",
+      "assets/pan-negro-2.webp",
+      "assets/pan-negro-3.webp"
+    ]
+  }
+]

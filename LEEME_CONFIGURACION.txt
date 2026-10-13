@@ -1,0 +1,23 @@
+BLACK CLOTHES EC — LANDING
+
+VISTA PREVIA
+Abre index.html en tu computadora. Conéctate a internet si quieres ver la tipografía externa; el catálogo funciona también sin ella.
+
+PERSONALIZACIÓN EN config.js
+- WhatsApp: pon el número real con código 593, sin + ni espacios. Ejemplo ilustrativo: 593999999999.
+- Precios: cambia null por el precio en USD para cada producto, por ejemplo: "pan-negro": 35.00,
+- Courier: verifica que la empresa siga siendo Servientrega antes de publicar.
+- Promociones: la landing propone packs de 1, 2 y 3 prendas, pero no anuncia descuentos o precios de combos no confirmados.
+
+FUNCIONALIDADES
+- Diseño responsivo con fotos reales de tu último ZIP.
+- Catálogo con 8 productos y 20 fotos; filtros, galería de producto y selección de tallas.
+- Selección de múltiples prendas con cantidades y resumen; carrito guardado en el navegador.
+- Envía por WhatsApp lista y tallas al configurarlo. Mientras esté vacío, permite copiar el pedido y abrir Instagram.
+- Presentación, ganchos, combos, envíos, preguntas frecuentes y cierre de venta.
+
+PUBLICACIÓN
+La web aún no está publicada ni está integrada con Shopify. Para publicarla sube TODOS los archivos (index.html, config.js, productos-data.js y carpeta assets) a tu servidor, o adapta la estructura a Shopify.
+
+ANTES DE LANZAR
+Confirma número WhatsApp, precios, promociones, métodos de pago, políticas de cambio, cobertura y tarifas de envío.
