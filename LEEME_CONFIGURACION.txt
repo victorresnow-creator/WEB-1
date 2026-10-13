@@ -16,7 +16,16 @@ NOVEDADES
 - Sección de envíos y cierre de ventas.
 
 PRECIOS
-Edita los importes null dentro de config.js. Sin precios confirmados, la landing muestra «Consultar precio» y envía consulta por WhatsApp.
+Precios de catálogo vigentes (USD):
+- Camiseta Beige: $31.99
+- Camiseta Café: $32.99
+- Camiseta Negra (Logo Claro): $34.99
+- Camiseta Negra (Logo Rojo): $34.99
+- Pantalón Pana Azul: $33.99
+- Pantalón Pana Habano: $32.99
+- Pantalón Pana Beige: $31.99
+- Pantalón Pana Negro: $34.99
+Los precios se editan en config.js. Descuento del 5% sobre prendas si pagan anticipado; costo de envío adicional.
 
 FOTOS
 Los archivos .webp están en la raíz del repositorio. NO moverlos a assets sin cambiar rutas de index.html y productos-data.js.
